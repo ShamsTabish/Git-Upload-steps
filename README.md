@@ -47,6 +47,7 @@ git commit -m "Saving the project for 1st time on git"
 
 
 type following command and press enter(https://github.com/ShamsTabish/test.git is the URL copied form the above step on github.com) 
+
 git remote add origin https://github.com/ShamsTabish/test.git
 
 type following command and press enter
