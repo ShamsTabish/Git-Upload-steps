@@ -52,7 +52,8 @@ git remote add origin https://github.com/ShamsTabish/test.git
 type following command and press enter
 git push -u origin master
 
-
+It will prompt you for user name -> enter your user name created on GITHUB
+It will then promt you for passwrod -> Enter your password for GITHUB account
 
 
 
